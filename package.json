@@ -2,8 +2,10 @@
   "name": "backend-course-2025-3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
+  "type": "module",
   "scripts": {
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,3 +15,4 @@
     "commander": "^14.0.1"
   }
 }
+
