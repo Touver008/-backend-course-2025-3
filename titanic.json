@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Braund, Mr. Owen Harris",
+    "Survived": 0,
+    "Age": 22,
+    "Ticket": "A/5 21171"
+  },
+  {
+    "Name": "Palsson, Master. Gosta Leonard",
+    "Survived": 1,
+    "Age": 2,
+    "Ticket": "349909"
+  },
+  {
+    "Name": "Johnson, Mrs. Oscar W",
+    "Survived": 1,
+    "Age": 27,
+    "Ticket": "347742"
+  }
+]
